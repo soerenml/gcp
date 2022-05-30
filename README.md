@@ -1,2 +1,2 @@
-# vertex-ai
+# gcp
 Code samples for educational purpose
