@@ -1,2 +1,2 @@
-# vertex_ai
+# vertex-ai
 Code samples for educational purpose
